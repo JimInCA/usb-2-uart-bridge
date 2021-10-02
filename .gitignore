@@ -1,0 +1,11 @@
+AzureRTOS_TAD_logs/
+FreeRTOS_TAD_logs/
+virtual_com/
+.metadata/
+Debug/
+Release/
+*.launch
+*/obj
+*/bin
+*/x64
+
